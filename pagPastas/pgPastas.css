@@ -147,10 +147,11 @@ a{
     border: 2px solid white;
     height: 15%;
     width: 100%;
-    font-size: 45px;
+    font-size: 30px;
 }   
     .guia{
-        margin-top: 20px;
+        margin-left: -20px;
+        margin-top: 10px;
     }
- 
+    
 }

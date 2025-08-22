@@ -102,11 +102,15 @@ a{
         font-size: 40px;
     }
     .botao{
-        font-size: 70px;
+        font-size: 40px;
     }
     .personalizar input{
         width: 40%;
         height: 70px;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .personalizar h1{
         font-size: 40px;
         margin-top: 20px;
     }
@@ -122,12 +126,13 @@ a{
     border: 2px solid white;
     height: 15%;
     width: 100%;
-    font-size: 45px;
+    font-size: 30px;
 }   
     .bloco{
-        margin-top: 30px;
+        margin-left: -20px;
+        margin-top: 20px;
     }
     .bloco i{
-        margin-left: 40px;
+        margin-left: 25px;
     }
 }

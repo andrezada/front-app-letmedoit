@@ -86,7 +86,7 @@ a{
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 30px;
+        font-size: 20px;
     }
     .tela{
         width: 100%;
@@ -95,16 +95,16 @@ a{
         border-radius: 0;
         border: none;
     }
-
+    .Cor{
+        margin-left: 20px;
+    }
     .Cor input{
-    width: 15%;
-    height: 130px;
-    margin-left: 20%;
-    margin-top: 50px;
+    width: 25%;
+    height: 90px;
 }
 
     .Cor i{
-    font-size: 120px;
+    font-size: 80px;
     margin-left: 30%;
 }
 
@@ -120,13 +120,14 @@ a{
     border: 2px solid white;
     height: 15%;
     width: 100%;
-    font-size: 45px;
+    font-size: 30px;
 }   
     .bloco{
-        margin-top: 30px;
+        margin-left: -20px;
+        margin-top: 20px;
     }
     .bloco i{
-        margin-left: 40px;
+        margin-left: 25px;
     }
  
 }
